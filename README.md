@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Clayton+Ramalho%21;Welcome+to+my+github+!" alt="Typing SVG" /></a>
 
 <p>Olá! Eu sou o Clayton, tenho 20 anos. 👋</p>
-<p>Sou apaixonado por desenvolvimento de sistemas e ciência de dados. Gosto de transformar ideias em soluções funcionais e também de extrair informações valiosas através da análise de dados.</p>
+<p>Sou apaixonado por desenvolvimento de sistemas e ciência de dados. Gosto de transformar ideias em soluções funcionais e também de extrair informações valiosas através de dados.</p>
 <br>
 <p>📚 Estudo Análise e Desenvolvimento de Sistemas</p>
 <p>💼 Estágio atual na Fascamp</p>
